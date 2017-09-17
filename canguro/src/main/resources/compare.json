@@ -1,0 +1,467 @@
+{
+  "leadId": "550a6f72-3f37-44b6-afa2-753888ce0a62",
+  "comparisonId": "2017-09-16T22:23:20.535Z",
+  "quotes": [
+    {
+      "companyId": "previsora",
+      "insuranceId": "previsoraUnico",
+      "companyName": "Previsora",
+      "logo": "previsora",
+      "premium": 7200263.979999999,
+      "score": 0.4812650602409639,
+      "insuranceName": "Deducible Único Livianos",
+      "rce": 1200,
+      "totalLoss": 0,
+      "partialLoss": 737717,
+      "coverage": 75,
+      "plus": [
+        "Un seguro completo al 100% de Previsora.",
+        "Grúa a nivel nacional.",
+        "Conductor elegido 2 eventos por mes.",
+        "Accidentes personales de $50.000.000.",
+        "Pérdida de llaves.",
+        "Conductor familiar 2 veces por mes.",
+        "Servicio de escolta en caso de intento de hurto con violencia."
+      ],
+      "minus": [],
+      "globalRce": false,
+      "links": [
+        {
+          "url": "https://www.previsora.gov.co/portal2/previsora3/images/clausulados/Reales%20o%20de%20da%C3%B1os/asistencia%20vehicular%20livianos%202016%20-.pdf",
+          "text": "Asistencia"
+        },
+        {
+          "url": "https://www.previsora.gov.co/portal2/previsora3/images/clausulados/Reales%20o%20de%20da%C3%B1os/aup-001-90123.pdf",
+          "text": "Clausulado"
+        }
+      ],
+      "result": "SUCCESS",
+      "coverages": {
+        "PP": {
+          "text": "  Protección Patrimonial",
+          "available": true
+        },
+        "CT": {
+          "text": "  Carro Taller",
+          "available": true
+        },
+        "CE": {
+          "text": "Conductor Elegido",
+          "available": true
+        },
+        "AV": {
+          "text": " Asistencia en viaje",
+          "available": true
+        },
+        "VR": {
+          "text": "  Vehículo de Reemplazo",
+          "available": true
+        },
+        "AP": {
+          "text": " Accidentes Personales",
+          "available": true
+        }
+      }
+    },
+    {
+      "companyId": "mapfre",
+      "insuranceId": "mapfreParaLaMujer",
+      "companyName": "Mapfre",
+      "logo": "https://d3t4b9u1ejiabn.cloudfront.net/images/insurancecompanies/Mapfre.svg.png",
+      "premium": 0,
+      "score": 0,
+      "insuranceName": "Para la Mujer",
+      "rce": 2000,
+      "totalLoss": 0,
+      "partialLoss": 10,
+      "coverage": 83,
+      "plus": [
+        "Un seguro muy completo de Mapfre dirigido especialmente a mujeres.",
+        "Cobertura adicional de cirugía plástica hasta $5.000.000 por accidentes faciales.",
+        "Asistencia de viaje de Mapfre que incluye por ejemplo conductor elegido y profesional, grúa y carro taller.",
+        "Asistencia juridica en procesos penales y civiles.",
+        "Cobertura de roturas de vidrio hasta 2 SMLMV, llantas estalladas y pequeños accesorios como lunas de espejos, tapas de gasolina entre otros hasta 1.5 SMLMV.",
+        "Asistencia de hogar que da coberturas de plomería, desinundación de alfombras, secado de alfombras, electricidad, cerrajería, vidrios, conexión con profesionales y reparación o sustición de tejas por rotura.",
+        "Otras asistencias y beneficios incluidos son accidentes personales, perdida de llaves, asistencia exequial y asesoría tributaria y legal integral."
+      ],
+      "minus": [],
+      "globalRce": true,
+      "links": [
+        {
+          "url": "http://www.mapfre.com.co/documents/18/1bd8bf81-331f-4957-a22f-c96a5e6fb7e1",
+          "text": "Condiciones generales"
+        }
+      ],
+      "result": "ERROR",
+      "coverages": {
+        "PP": {
+          "text": "  Protección Patrimonial",
+          "available": true
+        },
+        "CT": {
+          "text": "  Carro Taller",
+          "available": true
+        },
+        "CE": {
+          "text": "Conductor Elegido",
+          "available": true
+        },
+        "AV": {
+          "text": " Asistencia en viaje",
+          "available": true
+        },
+        "VR": {
+          "text": "  Vehículo de Reemplazo",
+          "available": true
+        },
+        "AP": {
+          "text": " Accidentes Personales",
+          "available": true
+        }
+      }
+    },
+    {
+      "companyId": "mapfre",
+      "insuranceId": "mapfreSuperTrebol",
+      "companyName": "Mapfre",
+      "logo": "https://d3t4b9u1ejiabn.cloudfront.net/images/insurancecompanies/Mapfre.svg.png",
+      "premium": 0,
+      "score": 0,
+      "insuranceName": "Super Trebol",
+      "rce": 2000,
+      "totalLoss": 0,
+      "partialLoss": 10,
+      "coverage": 78,
+      "plus": [
+        "Un seguro muy completo de Mapfre para ellos que quieren gozar de varios beneficios y servicios adicionales.",
+        "Asistencia de viaje de Mapfre que incluye por ejemplo conductor elegido y profesional, grúa y carro taller.",
+        "Asistencia juridica en procesos penales y civiles.",
+        "Cobertura de llantas estalladas y pequeños accesorios como lunas de espejos, tapas de gasolina entre otros hasta 1.5 SMLMV.",
+        "Asistencia de hogar que da coberturas de plomería, desinundación de alfombras, secado de alfombras, electricidad, cerrajería, vidrios, conexión con profesionales y reparación o sustición de tejas por rotura.",
+        "Otras asistencias y beneficios incluidos son accidentes personales, perdida de llaves, asistencia exequial y asesoría tributaria y legal integral."
+      ],
+      "minus": [],
+      "globalRce": true,
+      "links": [
+        {
+          "url": "http://www.mapfre.com.co/documents/18/1bd8bf81-331f-4957-a22f-c96a5e6fb7e1",
+          "text": "Condiciones generales"
+        }
+      ],
+      "result": "ERROR",
+      "coverages": {
+        "PP": {
+          "text": "  Protección Patrimonial",
+          "available": true
+        },
+        "CT": {
+          "text": "  Carro Taller",
+          "available": true
+        },
+        "CE": {
+          "text": "Conductor Elegido",
+          "available": true
+        },
+        "AV": {
+          "text": " Asistencia en viaje",
+          "available": true
+        },
+        "VR": {
+          "text": "  Vehículo de Reemplazo",
+          "available": true
+        },
+        "AP": {
+          "text": " Accidentes Personales",
+          "available": false
+        }
+      }
+    },
+    {
+      "companyId": "mapfre",
+      "insuranceId": "mapfreParaLaFamilia",
+      "companyName": "Mapfre",
+      "logo": "https://d3t4b9u1ejiabn.cloudfront.net/images/insurancecompanies/Mapfre.svg.png",
+      "premium": 0,
+      "score": 0,
+      "insuranceName": "Para la Familia",
+      "rce": 2000,
+      "totalLoss": 0,
+      "partialLoss": 10,
+      "coverage": 83,
+      "plus": [
+        "Un seguro muy completo de Mapfre dirigido especialmente a personas con hijos.",
+        "Cobertura adicional de renta educativa hasta $250.000 y amparo de canasta familiar hasta $500.000.",
+        "Accidentes personales de $10.000.000 por ocupante y $15.000.000 por el aseguro hasta máximo $60.000.000.",
+        "Asistencia de viaje de Mapfre que incluye por ejemplo conductor elegido y profesional, grúa y carro taller.",
+        "Asistencia juridica en procesos penales y civiles.",
+        "Cobertura de llantas estalladas y pequeños accesorios como lunas de espejos, tapas de gasolina entre otros hasta 1.5 SMLMV.",
+        "Asistencia de hogar que da coberturas de plomería, desinundación de alfombras, secado de alfombras, electricidad, cerrajería, vidrios, conexión con profesionales y reparación o sustición de tejas por rotura.",
+        "Otras asistencias y beneficios incluidos son accidentes personales, perdida de llaves, asistencia exequial y asesoría tributaria y legal integral."
+      ],
+      "minus": [],
+      "globalRce": true,
+      "links": [
+        {
+          "url": "http://www.mapfre.com.co/documents/18/1bd8bf81-331f-4957-a22f-c96a5e6fb7e1",
+          "text": "Condiciones generales"
+        }
+      ],
+      "result": "ERROR",
+      "coverages": {
+        "PP": {
+          "text": "  Protección Patrimonial",
+          "available": true
+        },
+        "CT": {
+          "text": "  Carro Taller",
+          "available": true
+        },
+        "CE": {
+          "text": "Conductor Elegido",
+          "available": true
+        },
+        "AV": {
+          "text": " Asistencia en viaje",
+          "available": true
+        },
+        "VR": {
+          "text": "  Vehículo de Reemplazo",
+          "available": true
+        },
+        "AP": {
+          "text": " Accidentes Personales",
+          "available": true
+        }
+      }
+    },
+    {
+      "companyId": "mapfre",
+      "insuranceId": "mapfreTrebolBasico",
+      "companyName": "Mapfre",
+      "logo": "https://d3t4b9u1ejiabn.cloudfront.net/images/insurancecompanies/Mapfre.svg.png",
+      "premium": 0,
+      "score": 0,
+      "insuranceName": "Trebol Básico",
+      "rce": 2000,
+      "totalLoss": 0,
+      "partialLoss": 10,
+      "coverage": 67,
+      "plus": [
+        "Un seguro básico de Mapfre para ellos que desean una cobertura básica pero no necesita aprovechar de una gran cantidad de diferentes servicios y beneficios adicionales.",
+        "Asistencia de viaje de Mapfre que incluye por ejemplo conductor elegido y profesional, grúa y carro taller.",
+        "Asistencia juridica en procesos penales y civiles."
+      ],
+      "minus": [],
+      "globalRce": true,
+      "links": [
+        {
+          "url": "http://www.mapfre.com.co/documents/18/1bd8bf81-331f-4957-a22f-c96a5e6fb7e1",
+          "text": "Condiciones generales"
+        }
+      ],
+      "result": "ERROR",
+      "coverages": {
+        "PP": {
+          "text": "  Protección Patrimonial",
+          "available": true
+        },
+        "CT": {
+          "text": "  Carro Taller",
+          "available": true
+        },
+        "CE": {
+          "text": "Conductor Elegido",
+          "available": true
+        },
+        "AV": {
+          "text": " Asistencia en viaje",
+          "available": false
+        },
+        "VR": {
+          "text": "  Vehículo de Reemplazo",
+          "available": false
+        },
+        "AP": {
+          "text": " Accidentes Personales",
+          "available": false
+        }
+      }
+    },
+    {
+      "companyId": "allianz",
+      "insuranceId": "allianzLlaveEnMano",
+      "companyName": "Allianz",
+      "logo": "https://d3t4b9u1ejiabn.cloudfront.net/images/insurancecompanies/allianz.svg.png",
+      "premium": 0,
+      "score": 0,
+      "insuranceName": "Todo Riesgo Llave en Mano",
+      "rce": 4000,
+      "totalLoss": 0,
+      "partialLoss": 790000,
+      "coverage": 69,
+      "plus": [
+        "Es un seguro todo riesgo completo diseñado para vehiculos de los últimos tres años.",
+        "Grúa a nivel nacional.",
+        "Conductor elegido 6 eventos.",
+        "Accidentes personales de $50.000.000.",
+        "Médico domiciliario para el asegurado y cónyuge.",
+        "Excelente asistencia en el extranjero. Un seguro bueno si viajas mucho al exterior.",
+        "La responsabilidad civil mas alta del mercado que te cuidara en cualquier imprevisto.",
+        "Llave en mano te ofrece un nuevo vehículo 0km en el caso de perdida total."
+      ],
+      "minus": [],
+      "globalRce": true,
+      "links": [
+        {
+          "url": "https://www.allianz.co/documents/765073/804793/clausulado_AUT058VERSION15.pdf?v=1",
+          "text": "Condiciones generales"
+        },
+        {
+          "url": "https://youtu.be/8k4HADJL6yQ",
+          "text": "La cobertura llave en mano"
+        }
+      ],
+      "result": "NO_INTEGRATION",
+      "coverages": {
+        "PP": {
+          "text": "  Protección Patrimonial",
+          "available": true
+        },
+        "CT": {
+          "text": "  Carro Taller",
+          "available": true
+        },
+        "CE": {
+          "text": "Conductor Elegido",
+          "available": true
+        },
+        "AV": {
+          "text": " Asistencia en viaje",
+          "available": true
+        },
+        "VR": {
+          "text": "  Vehículo de Reemplazo",
+          "available": true
+        },
+        "AP": {
+          "text": " Accidentes Personales",
+          "available": true
+        }
+      }
+    },
+    {
+      "companyId": "allianz",
+      "insuranceId": "allianzTodoRiesgo",
+      "companyName": "Allianz",
+      "logo": "https://d3t4b9u1ejiabn.cloudfront.net/images/insurancecompanies/allianz.svg.png",
+      "premium": 0,
+      "score": 0,
+      "insuranceName": "Todo Riesgo",
+      "rce": 4000,
+      "totalLoss": 0,
+      "partialLoss": 900000,
+      "coverage": 67,
+      "plus": [
+        "Un seguro todo riesgo al 100% con excelentes coberturas.",
+        "Grúa a nivel nacional.",
+        "Conductor elegido 6 eventos.",
+        "Accidentes personales de $50.000.000.",
+        "Médico domiciliario para el asegurado y cónyuge.",
+        "Excelente asistencia en el extranjero. Un seguro bueno si viajas mucho al exterior.",
+        "La responsabilidad civil mas alta del mercado que te cuidara en cualquier imprevisto."
+      ],
+      "minus": [],
+      "globalRce": true,
+      "links": [
+        {
+          "url": "https://www.allianz.co/v_1478701157000/media/files-personas/file-automoviles/clausulados-octubre/clausulado_AUT058VERSION18.pdf",
+          "text": "Condiciones generales"
+        }
+      ],
+      "result": "NO_INTEGRATION",
+      "coverages": {
+        "PP": {
+          "text": "  Protección Patrimonial",
+          "available": true
+        },
+        "CT": {
+          "text": "  Carro Taller",
+          "available": true
+        },
+        "CE": {
+          "text": "Conductor Elegido",
+          "available": true
+        },
+        "AV": {
+          "text": " Asistencia en viaje",
+          "available": true
+        },
+        "VR": {
+          "text": "  Vehículo de Reemplazo",
+          "available": true
+        },
+        "AP": {
+          "text": " Accidentes Personales",
+          "available": true
+        }
+      }
+    },
+    {
+      "companyId": "equidad",
+      "insuranceId": "equidadAutoPlusFull",
+      "companyName": "Equidad",
+      "logo": "equidad",
+      "premium": 0,
+      "score": 0,
+      "insuranceName": "Auto Plus Full",
+      "rce": 3000,
+      "totalLoss": 0,
+      "partialLoss": 737717,
+      "coverage": 75,
+      "plus": [
+        "Un seguro diseñado para proteger tu auto al 100% con buenas asistencias.",
+        "Grúa a nivel nacional.",
+        "Conductor elegido 8 eventos.",
+        "Accidentes personales de $35.000.000.",
+        "Hurto de cartera en el interior del vehículo hasta 2 SMMLV.",
+        "Revisión Técnico Mecánica y de Gases obligatoria.",
+        "Revisión de viaje dos eventos por año."
+      ],
+      "minus": [],
+      "globalRce": false,
+      "links": [
+        {
+          "url": "http://ftp.laequidadarp.solucionesc2.com/datos/Clausulado/POLIZA%20DE%20SEGURO%20PARA%20AUTOMOVILES%20PARTICULARES.pdf",
+          "text": "Condiciones generales"
+        }
+      ],
+      "result": "ERROR",
+      "coverages": {
+        "PP": {
+          "text": "  Protección Patrimonial",
+          "available": true
+        },
+        "CT": {
+          "text": "  Carro Taller",
+          "available": true
+        },
+        "CE": {
+          "text": "Conductor Elegido",
+          "available": true
+        },
+        "AV": {
+          "text": " Asistencia en viaje",
+          "available": true
+        },
+        "VR": {
+          "text": "  Vehículo de Reemplazo",
+          "available": true
+        },
+        "AP": {
+          "text": " Accidentes Personales",
+          "available": true
+        }
+      }
+    }
+  ]
+}

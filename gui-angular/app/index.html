@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en" ng-app="kangaroo" ng-controller="mainCtrl as main">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<!-- bower:css -->
+	<link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.css" />
+	<!-- endbower -->
+	<!-- inject:css -->
+	<link rel="stylesheet" href="/stylesheets/main.css">
+	<!-- endinject -->
+	<title>Kangaroo</title>
+</head>
+
+<body>
+	<!-- bower:js -->
+	<script src="lib/angular/angular.js"></script>
+	<script src="lib/jquery/dist/jquery.js"></script>
+	<script src="lib/bootstrap/dist/js/bootstrap.js"></script>
+	<script src="lib/angular-route/angular-route.js"></script>
+	<script src="lib/angular-resource/angular-resource.js"></script>
+	<script src="lib/angular-cookies/angular-cookies.js"></script>
+	<script src="lib/angularLocalStorage/dist/angularLocalStorage.min.js"></script>
+	<script src="lib/angular-local-storage/dist/angular-local-storage.js"></script>
+	<!-- endbower -->
+	<!-- inject:js -->
+	<script src="/scripts/app.js"></script>
+	<script src="/scripts/routes.js"></script>
+	<script src="/scripts/services/brandService.js"></script>
+	<script src="/scripts/services/compareService.js"></script>
+	<script src="/scripts/services/modelService.js"></script>
+	<script src="/scripts/services/referencesService.js"></script>
+	<script src="/scripts/controllers/compareSecures/compareController.js"></script>
+	<script src="/scripts/controllers/main/mainController.js"></script>
+	<!-- endinject -->
+
+    <div class="container">
+      <div class="header clearfix">
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li role="presentation" class="active"><a href="#">Home</a></li>
+            <li role="presentation"><a href="#">About</a></li>
+            <li role="presentation"><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+        <h3 class="text-muted">Kangaroo</h3>
+      </div>
+
+      <div class="jumbotron">
+        <h2>Encuentra el mejor seguro de auto 
+		</h2>
+		<h4>Cotiza gratis con las mejores aseguradoras de Colombia</h4>
+		<br>
+		 <div class="form-group">
+			<div class="row">
+			  <div class="col-md-3">
+				  <select class="form-control" 
+				  id = "brand"
+				  name="brand" 
+				  ng-model = "main.brandSelected" 
+				  ng-options="value as value.nombre for value in main.brand" 
+				  ng-change="main.brandOnChange()">
+				  <option value="">--choose option--</option>
+				  </select>
+			  </div>
+			  <div class="col-md-3">
+				  <select class="form-control" 
+				  ng-model = "main.modelSelected" 
+				  ng-options="value as value.value for value in main.models" 
+				  ng-change="main.modelOnChange()">
+				  	<option value="">--choose option--</option>
+				  </select>
+			  </div>
+			  <div class="col-md-3">
+				  <select class="form-control" 
+				  ng-model = "main.referencesSelected" 
+				  ng-options="value as value.value for value in main.references">
+				  	<option value="">--choose option--</option>
+				  </select>
+			  </div>
+			  <div class="col-md-3">
+				   <button type="button" ng-click="main.compare()" class="btn btn-success">Cotizar</button>
+			  </div>
+			</div>
+		</div>
+
+
+      </div>
+
+      <div ng-view>
+      	 <div class="row marketing">
+
+
+      	 </div>
+
+      </div>
+
+     
+        
+
+      <footer class="footer">
+        <p>&copy; 2017 Company, Inc.</p>
+      </footer>
+
+    </div>
+
+</body>
+
+</html>

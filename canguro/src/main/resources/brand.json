@@ -1,0 +1,424 @@
+[ {
+  "id" : 1,
+  "nombre" : "ACURA"
+}, {
+  "id" : 2,
+  "nombre" : "AGRALE"
+}, {
+  "id" : 3,
+  "nombre" : "ALEKO"
+}, {
+  "id" : 4,
+  "nombre" : "ALFA ROMEO"
+}, {
+  "id" : 5,
+  "nombre" : "AMERICAN MOTOR"
+}, {
+  "id" : 6,
+  "nombre" : "AMPLE"
+}, {
+  "id" : 7,
+  "nombre" : "AROCARPATI"
+}, {
+  "id" : 8,
+  "nombre" : "ASIA"
+}, {
+  "id" : 9,
+  "nombre" : "AUDI"
+}, {
+  "id" : 10,
+  "nombre" : "BAIC"
+}, {
+  "id" : 11,
+  "nombre" : "BAW"
+}, {
+  "id" : 12,
+  "nombre" : "BEIJING"
+}, {
+  "id" : 13,
+  "nombre" : "BMW"
+}, {
+  "id" : 14,
+  "nombre" : "BRILLIANCE"
+}, {
+  "id" : 15,
+  "nombre" : "BRONTO"
+}, {
+  "id" : 16,
+  "nombre" : "BUICK"
+}, {
+  "id" : 17,
+  "nombre" : "BYD"
+}, {
+  "id" : 18,
+  "nombre" : "CADILLAC"
+}, {
+  "id" : 19,
+  "nombre" : "CHANA"
+}, {
+  "id" : 20,
+  "nombre" : "CHANGAN"
+}, {
+  "id" : 21,
+  "nombre" : "CHANGFENG"
+}, {
+  "id" : 22,
+  "nombre" : "CHANGHE"
+}, {
+  "id" : 23,
+  "nombre" : "CHERY"
+}, {
+  "id" : 24,
+  "nombre" : "CHEVROLET"
+}, {
+  "id" : 25,
+  "nombre" : "CHRYSLER"
+}, {
+  "id" : 26,
+  "nombre" : "CITROEN"
+}, {
+  "id" : 27,
+  "nombre" : "CORCEL"
+}, {
+  "id" : 28,
+  "nombre" : "DACIA"
+}, {
+  "id" : 29,
+  "nombre" : "DADI"
+}, {
+  "id" : 30,
+  "nombre" : "DAEWOO"
+}, {
+  "id" : 31,
+  "nombre" : "DAIHATSU"
+}, {
+  "id" : 32,
+  "nombre" : "DFAC"
+}, {
+  "id" : 33,
+  "nombre" : "DFSK/DFM/DFZL"
+}, {
+  "id" : 34,
+  "nombre" : "DINA"
+}, {
+  "id" : 35,
+  "nombre" : "DODGE"
+}, {
+  "id" : 36,
+  "nombre" : "DS"
+}, {
+  "id" : 37,
+  "nombre" : "FAW AMI"
+}, {
+  "id" : 38,
+  "nombre" : "FERRARI"
+}, {
+  "id" : 39,
+  "nombre" : "FIAT"
+}, {
+  "id" : 40,
+  "nombre" : "FORD"
+}, {
+  "id" : 41,
+  "nombre" : "FOTON"
+}, {
+  "id" : 42,
+  "nombre" : "FREIGHTLINER"
+}, {
+  "id" : 43,
+  "nombre" : "FUSO"
+}, {
+  "id" : 44,
+  "nombre" : "GAZ"
+}, {
+  "id" : 45,
+  "nombre" : "GEELY"
+}, {
+  "id" : 46,
+  "nombre" : "GLOW"
+}, {
+  "id" : 47,
+  "nombre" : "GMC"
+}, {
+  "id" : 48,
+  "nombre" : "GOLDEN DRAGON"
+}, {
+  "id" : 49,
+  "nombre" : "GONOW"
+}, {
+  "id" : 50,
+  "nombre" : "GREAT WALL MOTOR"
+}, {
+  "id" : 51,
+  "nombre" : "HAFEI"
+}, {
+  "id" : 52,
+  "nombre" : "HAIMA"
+}, {
+  "id" : 53,
+  "nombre" : "HIGER"
+}, {
+  "id" : 54,
+  "nombre" : "HINO"
+}, {
+  "id" : 55,
+  "nombre" : "HONDA"
+}, {
+  "id" : 56,
+  "nombre" : "HONGXING"
+}, {
+  "id" : 57,
+  "nombre" : "HUANGHAI"
+}, {
+  "id" : 58,
+  "nombre" : "HUMMER"
+}, {
+  "id" : 59,
+  "nombre" : "HYUNDAI"
+}, {
+  "id" : 60,
+  "nombre" : "IFA"
+}, {
+  "id" : 61,
+  "nombre" : "INFINITI"
+}, {
+  "id" : 62,
+  "nombre" : "INTERNATIONAL"
+}, {
+  "id" : 63,
+  "nombre" : "ISUZU"
+}, {
+  "id" : 64,
+  "nombre" : "IVECO"
+}, {
+  "id" : 65,
+  "nombre" : "JAC"
+}, {
+  "id" : 66,
+  "nombre" : "JAGUAR"
+}, {
+  "id" : 67,
+  "nombre" : "JEEP"
+}, {
+  "id" : 68,
+  "nombre" : "JINBEI"
+}, {
+  "id" : 69,
+  "nombre" : "JMC"
+}, {
+  "id" : 70,
+  "nombre" : "JOYLONG"
+}, {
+  "id" : 71,
+  "nombre" : "KAMAZ"
+}, {
+  "id" : 72,
+  "nombre" : "KENWORTH"
+}, {
+  "id" : 73,
+  "nombre" : "KIA"
+}, {
+  "id" : 74,
+  "nombre" : "KRAZ"
+}, {
+  "id" : 75,
+  "nombre" : "LADA"
+}, {
+  "id" : 76,
+  "nombre" : "LANCIA"
+}, {
+  "id" : 77,
+  "nombre" : "LAND ROVER"
+}, {
+  "id" : 78,
+  "nombre" : "LANDWIND"
+}, {
+  "id" : 79,
+  "nombre" : "LEXUS"
+}, {
+  "id" : 80,
+  "nombre" : "LIFAN"
+}, {
+  "id" : 81,
+  "nombre" : "LINCOLN"
+}, {
+  "id" : 82,
+  "nombre" : "MACK"
+}, {
+  "id" : 83,
+  "nombre" : "MAHINDRA"
+}, {
+  "id" : 84,
+  "nombre" : "MARMON"
+}, {
+  "id" : 85,
+  "nombre" : "MASERATI"
+}, {
+  "id" : 86,
+  "nombre" : "MAXUS"
+}, {
+  "id" : 87,
+  "nombre" : "MAZDA"
+}, {
+  "id" : 88,
+  "nombre" : "MERCEDES BENZ"
+}, {
+  "id" : 89,
+  "nombre" : "MERCURY"
+}, {
+  "id" : 90,
+  "nombre" : "MG"
+}, {
+  "id" : 91,
+  "nombre" : "MINI"
+}, {
+  "id" : 92,
+  "nombre" : "MITSUBISHI"
+}, {
+  "id" : 93,
+  "nombre" : "MUDAN"
+}, {
+  "id" : 94,
+  "nombre" : "NISSAN"
+}, {
+  "id" : 95,
+  "nombre" : "NON PLUS ULTRA"
+}, {
+  "id" : 96,
+  "nombre" : "OLTCIT"
+}, {
+  "id" : 97,
+  "nombre" : "OPEL"
+}, {
+  "id" : 98,
+  "nombre" : "PAZ"
+}, {
+  "id" : 99,
+  "nombre" : "PEGASO"
+}, {
+  "id" : 100,
+  "nombre" : "PEUGEOT"
+}, {
+  "id" : 101,
+  "nombre" : "PONTIAC"
+}, {
+  "id" : 102,
+  "nombre" : "PORSCHE"
+}, {
+  "id" : 103,
+  "nombre" : "RENAULT"
+}, {
+  "id" : 104,
+  "nombre" : "RENNO"
+}, {
+  "id" : 105,
+  "nombre" : "ROVER"
+}, {
+  "id" : 106,
+  "nombre" : "SAAB"
+}, {
+  "id" : 107,
+  "nombre" : "SAICWULING"
+}, {
+  "id" : 108,
+  "nombre" : "SATURN"
+}, {
+  "id" : 109,
+  "nombre" : "SCANIA"
+}, {
+  "id" : 110,
+  "nombre" : "SCION"
+}, {
+  "id" : 111,
+  "nombre" : "SEAT"
+}, {
+  "id" : 112,
+  "nombre" : "SHINERAY"
+}, {
+  "id" : 113,
+  "nombre" : "SHUANGHUAN"
+}, {
+  "id" : 114,
+  "nombre" : "SINOTRUK"
+}, {
+  "id" : 115,
+  "nombre" : "SKODA"
+}, {
+  "id" : 116,
+  "nombre" : "SMART"
+}, {
+  "id" : 117,
+  "nombre" : "SOYAT"
+}, {
+  "id" : 118,
+  "nombre" : "SSANGYONG"
+}, {
+  "id" : 119,
+  "nombre" : "SUBARU"
+}, {
+  "id" : 120,
+  "nombre" : "SUZUKI"
+}, {
+  "id" : 121,
+  "nombre" : "T-KING"
+}, {
+  "id" : 122,
+  "nombre" : "TATA"
+}, {
+  "id" : 123,
+  "nombre" : "TAVRIA"
+}, {
+  "id" : 124,
+  "nombre" : "TIANMA"
+}, {
+  "id" : 125,
+  "nombre" : "TMD"
+}, {
+  "id" : 126,
+  "nombre" : "TOYOTA"
+}, {
+  "id" : 127,
+  "nombre" : "UAZ"
+}, {
+  "id" : 128,
+  "nombre" : "UFO"
+}, {
+  "id" : 129,
+  "nombre" : "VOLGA"
+}, {
+  "id" : 130,
+  "nombre" : "VOLKSWAGEN"
+}, {
+  "id" : 131,
+  "nombre" : "VOLVO"
+}, {
+  "id" : 132,
+  "nombre" : "XINKAI"
+}, {
+  "id" : 133,
+  "nombre" : "YAXING"
+}, {
+  "id" : 134,
+  "nombre" : "YUEJIN-NAVECO"
+}, {
+  "id" : 135,
+  "nombre" : "YUGO"
+}, {
+  "id" : 136,
+  "nombre" : "YUTONG"
+}, {
+  "id" : 137,
+  "nombre" : "ZAHAV"
+}, {
+  "id" : 138,
+  "nombre" : "ZHONGXING"
+}, {
+  "id" : 139,
+  "nombre" : "ZNA"
+}, {
+  "id" : 140,
+  "nombre" : "ZONGSHEN"
+}, {
+  "id" : 141,
+  "nombre" : "ZOTYE"
+} ]

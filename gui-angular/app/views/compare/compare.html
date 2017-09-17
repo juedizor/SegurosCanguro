@@ -1,0 +1,31 @@
+
+<div ng-repeat="data in compare.dataCompare track by $index">
+	<div ng-repeat="dataInsurance in data track by $index">
+		<div class="panel panel-info">
+			<div class="panel-heading">
+				<p>
+					{{dataInsurance.companyName}}
+				</p>
+				<p>
+					{{dataInsurance.insuranceName}}
+				</p>
+			</div>
+			  <div class="panel-body">
+				   	<p>
+				   		<h4>Responsabilidad Civil</h4>
+				   		<div>$ {{dataInsurance.premium | number}}</div>
+				   	</p>
+						
+					<p ng-repeat="dataPlus in dataInsurance.plus track by $index">
+				   		{{dataPlus}}
+				   	</p>
+				</div>
+		  </div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
